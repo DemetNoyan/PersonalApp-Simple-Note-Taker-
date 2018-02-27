@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff4066</color>
+    <color name="colorSetting">#40000000</color>
+    <color name="colorClick">#abcdef</color>
+
+
+    <color name="primary">#3F51B5</color>
+    <color name="primaryDark">#1A237E</color>
+    <color name="accent">#C5CAE9</color>
+    <color name="list_item_text">#333</color>
+    <color name="blulight">#49acd5</color>
+    <color name="green">#45bc62</color>
+    <color name="sarı">#eaad45</color>
+    <color name="pimbi">#ff4081</color>
+    <color name="beyaz">#ffff</color>
+    <color name="ddd">#E8FAF1</color>
+
+</resources>

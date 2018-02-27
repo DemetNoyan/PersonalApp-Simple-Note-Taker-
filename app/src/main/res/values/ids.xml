@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_create_sample" type="id">action_create_sample</item>
+    <item name="action_delete_sample" type="id">action_delete_sample</item>
+    <item name="background_view" type="id">background_view</item>
+</resources>
